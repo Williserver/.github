@@ -11,3 +11,5 @@ These include:
 And more!
 
 This organization serves as a repository for a number of Williserver-related things. 
+
+Visit williserver.net/mc for more information!
